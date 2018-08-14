@@ -1,2 +1,2 @@
 # advanced-java
-CTY Online AJA
+Johns Hopkins CTY Online Advanced Java Course
